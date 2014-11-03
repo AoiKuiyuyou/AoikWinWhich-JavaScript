@@ -1,0 +1,13 @@
+{
+  "name": "AoikWinWhich-JavaScript",
+  "private": true,
+  "version": "0.1.0",
+  "repository": "https://github.com/AoiKuiyuyou/AoikWinWhich-JavaScript",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "scripts": {
+    "start": "node src/aoikwinwhich"
+  }
+}
